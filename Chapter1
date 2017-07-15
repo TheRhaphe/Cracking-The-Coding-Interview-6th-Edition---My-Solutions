@@ -1,6 +1,5 @@
 import java.util.*;
 public class Chapter1 {
-	
 	public static void main(String args[]) {
 		testIsUnique("yyy");
 		testIsUnique2("dghk,vcx");
